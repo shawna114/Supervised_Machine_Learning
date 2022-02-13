@@ -27,4 +27,4 @@ A LogisticRegression model was created, fitted to the data, and scored. The same
 
 ## Model Comparison
 
-It was determined that the scaled logistic regression model was the most accurate when compared with scaled and unscaled models for both classifiers.
+It was determined that the unscaled random forest model was the most accurate when compared with scaled and unscaled models for both classifiers.
